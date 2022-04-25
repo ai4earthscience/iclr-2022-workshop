@@ -32,7 +32,7 @@ Asking questions during a Q&A or panel discussion: please ask via [Rocket Chat](
 
 Poster session: [join the Gathertown poster room](https://app.gather.town/app/I1tkF58IbTcXKvMm/ai4ess-poster-session). Note: you will need to navigate either to the poster session (to see posters) or the breakout room (meet and chat with other workshop participants).
 
-Breakout rooms: after each session, there will be a [GatherTown breakout room](https://app.gather.town/y9ohC8zQBrN4tQMt/iclr2022-workshop-room-10) where you can meet, chat, and network with other workshop / session participants after the session. We heartily encourage you to check out your session's breakout room after the Q&A. 
+Breakout rooms: after each session, there will be a [GatherTown breakout room](https://app.gather.town/y9ohC8zQBrN4tQMt/iclr2022-workshop-room-10) where you can meet, chat, and network with other participants who attended your the session. We heartily encourage you to check out your session's breakout room after the Q&A. 
 
 **For authors:**
 
