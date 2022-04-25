@@ -32,7 +32,7 @@ Asking questions during a Q&A or panel discussion: please ask via [Rocket Chat](
 
 Poster session: [join the Gathertown poster room](https://app.gather.town/app/I1tkF58IbTcXKvMm/ai4ess-poster-session). Note: you will need to navigate either to the poster session (to see posters) or the breakout room (meet and chat with other workshop participants).
 
-Breakout rooms: after each session, there will be a Gathertown breakout room where you can meet, chat, and network with other workshop / session participants after the session. We heartily encourage you to check out your session's breakout room after the Q&A. Link coming soon.
+Breakout rooms: after each session, there will be a Gathertown breakout room where you can meet, chat, and network with other workshop / session participants after the session. We heartily encourage you to check out your session's breakout room after the Q&A. Join [here](https://app.gather.town/y9ohC8zQBrN4tQMt/iclr2022-workshop-room-10).
 
 **For authors:**
 
@@ -52,11 +52,7 @@ Meeting: April 25 - 29, 2022
 
 ## Submission instructions
 
-We are accepting two forms of submissions: papers and posters. All submissions are due via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/) by Feb 
-
-
-
-'22 12:00 AM UTC (anywhere on earth). Please anonymize your submissions as indicated in the ICLR submission instructions.  
+We are accepting two forms of submissions: papers and posters. All submissions are due via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/) by Feb '22 12:00 AM UTC (anywhere on earth). Please anonymize your submissions as indicated in the ICLR submission instructions.  
  
 **Paper submissions:** To format your paper for submission please use the [main conference LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2022.zip). The workshop has a strict maximum page limit of 5 pages for the main text and 3 pages for the supplemental text. Citations may use additional, unlimited pages.
 
