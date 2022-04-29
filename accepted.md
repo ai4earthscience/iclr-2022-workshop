@@ -1,1 +1,102 @@
-[Don't Pay Attention to the Noise: Learning Self-supervised Light Curve Representations with a Denoising Time Series Transformer](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_01.pdf)[Convolutional autoencoders for spatially-informed ensemble post-processing](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_04.pdf)[Hurricane Forecasting: A Novel Multimodal Machine Learning Approach](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_05.pdf)[GRASP EARTH: Intuitive Software for Discovering Changes on the Planet](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_06.pdf)[Comparing Loss Representations for SAR Sea Ice Concentration Charting](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_07.pdf)[Meta-Learning and Self-Supervised Pretraining for Storm Event Imagery Translation](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_08.pdf)[Unsupervised Downscaling of Sea Surface Height with Deep Image Prior](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_09.pdf)[MIMSS: A Dataset to evaluate Multi-Image Multi-Spectral Super-Resolution on Sentinel 2](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_10.pdf)[Spectral analysis reveals a physical mechanism towards instability in convolution-based data-driven weather models](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_11.pdf)[Imbalance-Aware Learning for Deep Physics Modeling](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_12.pdf)[Testing Interpretability Techniques for Deep Statistical Climate Downscaling](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_13.pdf)[Towards Fast Simulation of  Environmental Fluid Mechanics with Multi-Scale Graph Neural Networks](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_14.pdf)[Street-Level Air Pollution Modelling with Graph Gaussian Processes](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_15.pdf)[Multimodel Ensemble Predictions of Precipitation using Bayesian Neural Networks](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_16.pdf)[A weakly supervised framework for high-resolution crop yield forecasts](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_18.pdf)[An interpretable machine learning model for advancing terrestrial ecosystem predictions](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_19.pdf)[Reinforcement Learning State Estimation for High-Dimensional Nonlinear Systems](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_20.pdf)[Machine learning based surrogate modelling and parameter identification for wildfire forecasting](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_21.pdf)[Trainable Wavelet Neural Network for Non-Stationary Signals](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_22.pdf)[Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_23.pdf)[Practical Advances in Short-Term Spectral Wave Forecasting with SWRL Net](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_24.pdf)[FourCastNet: A Data-driven Model for High-resolution Weather Forecasts using Adaptive Fourier Neural Operators](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_25.pdf)[MACHINE LEARNING FOR BENTHIC TAXON IDENTIFICATION](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_27.pdf)[Interpretable Climate Change Modeling with Progressive Cascade Networks](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_28.pdf)[Invertible neural networks for E3SM land model calibration and simulation](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_29.pdf)[Conditional Emulation of Global Precipitation with Generative Adversarial Networks](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_30.pdf)[Group Equivariant Neural Networks for Spectropolarimetric Inversions in Solar Astronomy](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_31.pdf)[Deep Learning-Based Surrogate Modelling of Thermal Plumes for Shallow Subsurface Temperature Approximation](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_33.pdf)[Learning latent representations for operational nitrogen response rate prediction](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_36.pdf)[Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_37.pdf)[Learning Directed Structure for Multi-Output Gaussian Processes with the AcyGP Model](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_38.pdf)[Neural Operator with Regularity Structure for Modeling Dynamics Driven by SPDEs](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_40.pdf)[Improving remote monitoring of carbon stock in tropical forests with machine learning, a case study in Indonesian Borneo](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_41.pdf)[Semi-Automatic Framework of Monoplotting for Monocular Oblique Visual Data Analysis](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_43.pdf)
+Don't Pay Attention to the Noise: Learning Self-supervised Light Curve Representations with a Denoising Time Series Transformer  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_01.pdf)     
+
+Convolutional autoencoders for spatially-informed ensemble post-processing  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_04.pdf)     
+
+Hurricane Forecasting: A Novel Multimodal Machine Learning Approach  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_05.pdf)     
+
+GRASP EARTH: Intuitive Software for Discovering Changes on the Planet  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_06.pdf)     
+
+Comparing Loss Representations for SAR Sea Ice Concentration Charting  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_07.pdf)     
+
+Meta-Learning and Self-Supervised Pretraining for Storm Event Imagery Translation  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_08.pdf)     
+
+Unsupervised Downscaling of Sea Surface Height with Deep Image Prior  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_09.pdf)     
+
+MIMSS: A Dataset to evaluate Multi-Image Multi-Spectral Super-Resolution on Sentinel 2  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_10.pdf)     
+
+Spectral analysis reveals a physical mechanism towards instability in convolution-based data-driven weather models  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_11.pdf)     
+
+Imbalance-Aware Learning for Deep Physics Modeling  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_12.pdf)     
+
+Testing Interpretability Techniques for Deep Statistical Climate Downscaling  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_13.pdf)     
+
+Towards Fast Simulation of  Environmental Fluid Mechanics with Multi-Scale Graph Neural Networks  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_14.pdf)     
+
+Street-Level Air Pollution Modelling with Graph Gaussian Processes  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_15.pdf)     
+
+Multimodel Ensemble Predictions of Precipitation using Bayesian Neural Networks  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_16.pdf)     
+
+A weakly supervised framework for high-resolution crop yield forecasts  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_18.pdf)     
+
+An interpretable machine learning model for advancing terrestrial ecosystem predictions  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_19.pdf)     
+
+Reinforcement Learning State Estimation for High-Dimensional Nonlinear Systems  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_20.pdf)     
+
+Machine learning based surrogate modelling and parameter identification for wildfire forecasting  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_21.pdf)     
+
+Trainable Wavelet Neural Network for Non-Stationary Signals  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_22.pdf)     
+
+Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_23.pdf)     
+
+Practical Advances in Short-Term Spectral Wave Forecasting with SWRL Net  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_24.pdf)     
+
+FourCastNet: A Data-driven Model for High-resolution Weather Forecasts using Adaptive Fourier Neural Operators  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_25.pdf)     
+
+MACHINE LEARNING FOR BENTHIC TAXON IDENTIFICATION  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_27.pdf)     
+
+Interpretable Climate Change Modeling with Progressive Cascade Networks  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_28.pdf)     
+
+Invertible neural networks for E3SM land model calibration and simulation  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_29.pdf)     
+
+Conditional Emulation of Global Precipitation with Generative Adversarial Networks  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_30.pdf)     
+
+Group Equivariant Neural Networks for Spectropolarimetric Inversions in Solar Astronomy  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_31.pdf)     
+
+Deep Learning-Based Surrogate Modelling of Thermal Plumes for Shallow Subsurface Temperature Approximation  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_33.pdf)     
+
+Learning latent representations for operational nitrogen response rate prediction  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_36.pdf)     
+
+Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_37.pdf)     
+
+Learning Directed Structure for Multi-Output Gaussian Processes with the AcyGP Model  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_38.pdf)     
+
+Neural Operator with Regularity Structure for Modeling Dynamics Driven by SPDEs  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_40.pdf)     
+
+Improving remote monitoring of carbon stock in tropical forests with machine learning, a case study in Indonesian Borneo  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_41.pdf)     
+
+Semi-Automatic Framework of Monoplotting for Monocular Oblique Visual Data Analysis  
+[paper](https://ai4earthscience.github.io/iclr-2022-workshop/https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_43.pdf)     
+
