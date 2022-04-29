@@ -27,26 +27,35 @@ crdf = crdf.append(pdf)
 crdf.index = np.arange(crdf.shape[0])
 for ind in crdf.index:
     ff = crdf.loc[ind]
+    has_pp = False; has_paper = False; has_poster = False
     if 'Accept' in ff['Status']:
         pid = str(ff['Paper ID'])
         paper_title = '**%s**'%ff['Paper Title']
-        authors = ff['Author Names']
+        authors = ff['Author Names'].replace('*','')
         if ff['Status'] == 'Accept poster':
             first_author = authors.split(',')[0]
         else:
             first_author = authors.split('(')[0].strip().split(' ')[-1]
-        write_file.write(paper_title + '  \n')
-        write_file.write(authors + '  \n')
  
         if pid in paper_dict and ff['Status'] == 'Accept paper':
+            has_pp = True
+            has_paper = True
             target_path = 'camera_ready/iclr_2022_ai4ess_%02d.pdf' %int(pid)
             target_link = sitename + target_path
             shutil.copy2(paper_dict[pid], target_path)
             paper = '**[paper]({})**   '.format(target_link)
-            write_file.write(paper)
         if first_author in poster_dict:
+            has_pp = True
+            has_poster = True
             poster =  '    **[poster]({})**'.format(sitename + poster_dict[first_author])
             write_file.write(poster)
-        write_file.write('  \n\n')
+        if has_pp:
+            write_file.write(paper_title + '  \n')
+            write_file.write(authors + '  \n')
+            if has_paper: 
+                write_file.write(paper)
+            if has_poster:
+                write_file.write(poster)
+            write_file.write('  \n\n')
 
 
