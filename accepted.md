@@ -12,7 +12,7 @@ Léonard Boussioux (MIT, CentraleSupélec); Cynthia Zeng (MIT); Théo J Guenais 
 
 **GRASP EARTH: Intuitive Software for Discovering Changes on the Planet**  
 Waku Hatakeyama (Ridge-i); Shiro Kawakita (Ridge-i); Ryohei Izawa (Ridge-i Inc.); Masanari Kimura (Graduate University for Advanced Studies;Ridge-i inc.)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_06.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Hatakeyama_etal.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Hatakeyama_etal.png)**  
 
 **Comparing Loss Representations for SAR Sea Ice Concentration Charting**  
 Andrzej S Kucik (European Space Agency); Andreas Stokholm (DTU Space)  
@@ -30,13 +30,9 @@ Arthur Filoche (Sorbonne Université, LIP6); Théo Archambault (Sorbonne Univers
 Muhammed T Razzak (University of Oxford); Gonzalo Mateo-Garcia (University of Valencia); Gurvan Lecuyer (ESA); Gomez-Chova, Luis (); Yarin   Gal (University of Oxford); Freddie Kalaitzis (University of Oxford)  
 **[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_10.pdf)**     
 
-**Spectral analysis reveals a physical mechanism towards instability in convolution-based data-driven weather models**  
-Ashesh K Chattopadhyay (Rice University); Ebrahim Nabizadeh (Rice University); Pedram  Hassanzadeh (Rice University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_11.pdf)**     
-
 **Imbalance-Aware Learning for Deep Physics Modeling**  
 Takahito Yoshida (Osaka University); Takaharu Yaguchi (Kobe University); Takashi Matsubara (Osaka University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_12.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Yoshida_etal.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Yoshida_etal.png)**  
 
 **Testing Interpretability Techniques for Deep Statistical Climate Downscaling**  
 Jose González-Abad (Instituto de Fı́sica de Cantabria (IFCA), CSIC-Universidad de Cantabria); Jorge Baño-Medina (Institute of Physics of Cantabria); José Manuel Gutiérrez (Instituto de Fı́sica de Cantabria (IFCA), CSIC-Universidad de Cantabria)  
@@ -48,7 +44,7 @@ Mario A Lino (Imperial College London); Stathi Fotiadis (Imperial College London
 
 **Street-Level Air Pollution Modelling with Graph Gaussian Processes**  
 Thomas Pinder (Lancaster University); Kathryn Turnbull (); Christopher Nemeth (University of Lancaster); David S Leslie (Lancaster University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_15.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Pinder_etal.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Pinder_etal.png)**  
 
 **Multimodel Ensemble Predictions of Precipitation using Bayesian Neural Networks**  
 Ming Fan (Oak Ridge National Laboratory); Dan Lu (Oak Ridge National Laboratory); Deeksha Rastogi (Oak Ridge National Lab)  
@@ -68,7 +64,7 @@ Saviz Mowlavi (MIT); mouhacine Benosman (MERL); Saleh   Nabi ()
 
 **Machine learning based surrogate modelling and parameter identification for wildfire forecasting**  
 Sibo Cheng (Imperial College London); Rossella Arcucci (Imperial College London)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_21.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Cheng_Arcucci.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Cheng_Arcucci.png)**  
 
 **Trainable Wavelet Neural Network for Non-Stationary Signals**  
 Jason Stock (Colorado State University); Charles Anderson (Colorado State University)  
@@ -86,13 +82,9 @@ Chloe Dawson (Western Washington University); Noah Reneau (Western Washington Un
 Jaideep Pathak (NVIDIA Corporation); Shashank Subramanian (Lawrence Berkeley National Laboratory); Peter  Harrington (Lawrence Berkeley National Laboratory (Berkeley Lab)); Sanjeev Raja (University of Michigan); Ashesh K Chattopadhyay (Rice University); Morteza Mardani (NVIDIA Corporation); Thorsten Kurth (Nvidia); David M. Hall (NVIDIA); Zongyi Li (NVIDIA/Caltech); Kamyar Azizzadenesheli (Purdue University); Pedram  Hassanzadeh (Rice University); Karthik Kashinath (NVIDIA Corporation); Anima Anandkumar (NVIDIA/Caltech)  
 **[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_25.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Pathak_etal.png)**  
 
-**MACHINE LEARNING FOR BENTHIC TAXON IDENTIFICATION**  
-Aiswarya Vellappally (CGG UK); Mckenzie Love (CGG ); Freya Watkins (CGG); Song Hou (CGG ); Tim  Jackson-Bue (CGG)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_27.pdf)**     
-
 **Interpretable Climate Change Modeling with Progressive Cascade Networks**  
 Charles Anderson (Colorado State University); Jason Stock (Colorado State University); David Anderson (SurveyMonkdy)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_28.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Anderson_etal.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Anderson_etal.png)**  
 
 **Invertible neural networks for E3SM land model calibration and simulation**  
 Dan Lu (Oak Ridge National Laboratory); Daniel Ricciuto (Oak Ridge National Laboratory); Jiaxin Zhang (Oak Ridge National Laboratory)  
@@ -108,19 +100,11 @@ Michael B Ito (University of Hawaii at Manoa); Ian Cunnyngham (University of Haw
 
 **Deep Learning-Based Surrogate Modelling of Thermal Plumes for Shallow Subsurface Temperature Approximation**  
 Raphael Leiteritz (University of Stuttgart, IPVS); Kyle Davis (University of Stuttgart.de); Miriam Schulte (University of Stuttgart); Dirk Pflüger (University of Stuttgart, IPVS)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_33.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Leiteritz_etal.png)**  
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Leiteritz_etal.png)**  
 
 **Learning latent representations for operational nitrogen response rate prediction**  
 Christos Pylianidis (Wageningen University and Research); Ioannis N Athanasiadis (Wageningen University and Research)  
 **[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_36.pdf)**     
-
-**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**  
-Samuel J Greydanus (Oregon State University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_37.pdf)**     
-
-**Learning Directed Structure for Multi-Output Gaussian Processes with the AcyGP Model**  
-Benjamin J Ayton (Massachusetts Institute of Technology); Richard Camilli (Woods Hole Oceanographic Institution); Brian C Williams (Massachusetts Institute of Technology)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_38.pdf)**     
 
 **Neural Operator with Regularity Structure for Modeling Dynamics Driven by SPDEs**  
 Peiyan Hu (University of Chinese Academy of Sciences); Qi Meng (Microsoft); Bingguang Chen (Chinese Academy of Sciences); Shiqi Gong (University of Chinese Academy of Sciences); Yue Wang (Microsoft Research Asia); Wei   Chen (Chinese Academy of Sciences); Rongchan Zhu (Bielefeld University); Zhiming   Ma (); Tie-Yan Liu (Microsoft Research)  
@@ -128,11 +112,7 @@ Peiyan Hu (University of Chinese Academy of Sciences); Qi Meng (Microsoft); Bing
 
 **Improving remote monitoring of carbon stock in tropical forests with machine learning, a case study in Indonesian Borneo**  
 Andrew Chamberlin (Stanford University); Krti Tallam (Stanford University); Zac Yung-Chun Liu (Stanford University); Giulio De Leo (Stanford University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_41.pdf)**       **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Chamberlin_etal.png)**  
-
-**Semi-Automatic Framework of Monoplotting for Monocular Oblique Visual Data Analysis**  
-Behzad Golparvar (RUTGERS UNIVERSITY); Ruo-Qian Wang (Rutgers University)  
-**[paper](https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_43.pdf)**     
+    **[poster](https://ai4earthscience.github.io/iclr-2022-workshop/posters/Chamberlin_etal.png)**  
 
 **Development and Statistical Analysis of an Automated Meteor Detection Pipeline for GOES Weather Satellites**  
 Smith, Jeffrey C; Morris, Robert; Longenbaugh, Randolph; Clark, Alexandria; Dotson, Jessie; McCurdy, Nina; Henze, Christopher  
