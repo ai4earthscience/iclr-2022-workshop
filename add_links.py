@@ -48,7 +48,6 @@ for ind in crdf.index:
             has_pp = True
             has_poster = True
             poster =  '    **[poster]({})**'.format(sitename + poster_dict[first_author])
-            write_file.write(poster)
         if has_pp:
             write_file.write(paper_title + '  \n')
             write_file.write(authors + '  \n')
